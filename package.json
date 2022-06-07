@@ -1,6 +1,6 @@
 {
   "name": "loan-yup",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Patrick Targun <pjtargun@gmail.com>",
   "description": "Simple module for validating loan applications",
   "main": "index",
