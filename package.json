@@ -1,0 +1,44 @@
+{
+  "name": "loan-yup",
+  "version": "0.1.0",
+  "author": "Patrick Targun <pjtargun@gmail.com>",
+  "description": "Simple module for validating loan applications",
+  "main": "index",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "typings": "index.d.ts",
+  "engines": {
+    "node": ">4.0"
+  },
+  "license": "Unlicense",
+  "keywords": [
+    "validation",
+    "validator",
+    "syntax"
+  ],
+  "homepage": "https://github.com/targun/loan-yup",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/targun/loan-yup/raw/master/LICENSE"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Patrick Targun",
+      "email": "pjtargun@gmail.com",
+      "url": "https://github.com/targun"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/targun/loan-yup.git"
+  },
+  "devDependencies": {
+    "jest": "28.1.0"
+  },
+  "dependencies": {
+    "yup": "^0.32.11"
+  }
+}
